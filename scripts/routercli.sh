@@ -1,4 +1,5 @@
 #!/bin/sh
+#
 echo -n "`hostname`#"
 FILES=/tmp/splitDB/*
 get_attribute () {
