@@ -12,3 +12,7 @@ Etre_Libre has modified the firmware to enable telnet, ssh, WoL and a root passw
 Just place the script in /etc/flash/persos and run the routercli.sh script. You should get a prompt that will now accept commands. If you need help, email me at armar@reggans.com
 
 I provided the firmware as well, although you can build it yourself if you want to.
+
+
+
+
