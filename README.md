@@ -13,7 +13,7 @@ Just place the script in /etc/flash/persos and run the routercli.sh script. You 
 
 I provided the firmware as well, although you can build it yourself if you want to.
 
-
+Note: The root password is set to : cisco2014*
 
 
 
